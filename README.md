@@ -1,2 +1,6 @@
 hello_world
-<h1>Hello, World!</h1>
+<html>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+</html>
